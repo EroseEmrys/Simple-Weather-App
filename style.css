@@ -1,0 +1,53 @@
+body {
+  background: rgb(64, 147, 158);
+  font-family: Arial, sans-serif;
+}
+
+#weather-c {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#city {
+  text-align: center;
+}
+
+#get-weather-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+}
+
+#weather-result {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#weather-icon {
+  display: none;
+  margin: 20px auto;
+  width: 100px;
+  height: 100px;
+}
+
+#temp {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+#weather-info {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 1.1em;
+}
+
+#hourly-weather {
+  margin-top: 20px;
+  text-align: center;
+}
