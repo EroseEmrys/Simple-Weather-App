@@ -1,6 +1,4 @@
-Great! Here's how you can structure your `README.md` file specifically for your GitHub repository named `Simple-Weather-App` under your username `EroseEmrys`:
 
-```markdown
 # Simple Weather App
 
 This is a simple weather app created as part of a 30-day web design challenge. It allows users to enter a city name and fetches current weather and hourly forecast using the OpenWeatherMap API.
